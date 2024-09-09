@@ -1,5 +1,5 @@
 📚 Ebook Management System
-Welcome to the Ebook Management System repository! This project is developed using Java, JDBC, JSP, JSTL, and MySQL to manage a collection of ebooks with various functionalities.<br>
+Welcome to the Ebook Management System repository! This project is developed using Java, JDBC, JSP, JSTL, and MySQL to manage a collection of ebooks with various functionalities.<br>  
 
 ✨ Features
 📝 Manage Ebooks: Add, update, delete, and view ebook records.<br> 🔒 User Authentication: Secure login system with role-based access.<br> 🔍 Search Functionality: Easily find ebooks through the search feature.<br> 📊 Efficient Data Handling: Interaction with MySQL database through JDBC.<br> 🌐 Dynamic Content Rendering: JSP and JSTL used for dynamic web pages.<br>
